@@ -1,5 +1,5 @@
 local GUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/aaaa"))()
-local UI = GUI:CreateWindow("Eralipa ZX v0.1b - Troll","เ งี่ ย น")
+local UI = GUI:CreateWindow("Eralipa ZX v0.1b - Troll","Fun")
 local Home = UI:addPage("Home",1,true,6)
 Home:addLabel("Version 0.1b","")
 Home:addLabel("Credit By Error_Code19182","")
